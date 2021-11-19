@@ -2,6 +2,15 @@
 
 The source code of FENDER.  
 The model is developed by Tensorflow 1.12.  
+
+Data:  
+instacart:  
+https://www.instacart.com/datasets/grocery-shopping-2017
+May need to require access from administrator.
+
+preprocess data: instacart_pre.ipynb, you may see the preprocessing steps in the file.  
+The processed files are too large to push it on github, but you can get the correct data format with the preprocessing code.  
+
 For the tensorflow version > 2.0, please do:  
 replace  
 import tensorflow as tf  
