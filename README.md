@@ -1,4 +1,4 @@
-# WWW2022 submission 2941
+# KDD2022 submission  
 
 The source code of FENDER.  
 The model is developed by Tensorflow 1.12.  
